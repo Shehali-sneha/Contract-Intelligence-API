@@ -13,11 +13,11 @@ A production-grade FastAPI application for ingesting PDF contracts, extracting s
 - 🏥 **Health Checks**: Monitor system health and metrics
 - 🔍 **Text Chunking**: Prepare documents for RAG pipeline
 
-🚧 **Coming Soon:**
+<!-- 🚧 **Coming Soon:**
 - 💬 **RAG Q&A**: Question answering with citations
 - ⚠️ **Risk Audit**: Detect risky clauses
 - 🔄 **Streaming**: SSE/WebSocket streaming
-- 🔗 **Webhooks**: Event notifications
+- 🔗 **Webhooks**: Event notifications -->
 
 ## Quick Start
 

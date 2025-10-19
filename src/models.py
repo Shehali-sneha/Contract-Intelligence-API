@@ -3,8 +3,6 @@ from sqlalchemy import Column, Integer, String, Text, DateTime, JSON, Float, For
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
 from src.database import Base
-
-
 class Document(Base):
     """Model for storing uploaded documents."""
     __tablename__ = "documents"
